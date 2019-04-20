@@ -1,4 +1,4 @@
-// Changes XML to JSON
+// Converts XML to JSON
 function xmlToJson(xml) {
 
     // Create the return object
